@@ -1,0 +1,48 @@
+.color-boxes {
+    height: 300px;
+    width:auto;    
+    align-items: center;
+
+}
+
+#box-red {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    color: red;
+    border: 2px solid red;
+    align-items:center;
+    position:absolute;
+    top: 40%;
+    left: 40%;
+    justify-content: center;
+}
+
+#box-brown {
+    height: 150px;
+    width: 110px;
+    background-color: brown;
+    position:absolute;
+    top: 26%;
+    left: 47%;
+    border: 1px solid blue;
+}
+
+#box-blue {
+    height: 150px;
+    width: 200px;
+    background-color: blue;
+    position:absolute;
+    top: 40%;
+    left: 47.2%;
+}
+
+#box-cyan{
+    height: 75px;
+    width: 150px;
+    background-color: cyan;
+    border: 2px solid;
+    position:absolute;
+    top: 47%;
+    left: 32%;
+}

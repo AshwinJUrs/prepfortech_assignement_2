@@ -1,0 +1,15 @@
+{
+  "name": "second_assignment",
+  "version": "1.0.0",
+  "description": "positioning using css",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashwin J",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.3"
+  }
+}
